@@ -1,0 +1,2 @@
+# CakeLand
+CakeLand is a Point of Sale application created for Business Application Development Course Final Project at Bina Nusantara University. This project is created by a team of two with Java programming language using Eclipse IDE. The member is Willsen Andrian who coded the UI of the application with JavaGUI and me (Verdy Wahyudi) who coded the system, database using MySQL, and connecting the system with the database. The database is created first using XAmpp as a web server with MySQL and then the application created in Eclipse IDE using Java programming language.
